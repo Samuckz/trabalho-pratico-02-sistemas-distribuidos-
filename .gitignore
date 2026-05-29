@@ -1,0 +1,11 @@
+.blocks/
+.claude/
+.pytest_cache/
+node_modules/
+package-lock.json
+package.json
+__pycache__/
+original.bin
+data.bin
+file.bin
+.done
